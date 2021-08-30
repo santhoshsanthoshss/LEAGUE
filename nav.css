@@ -276,18 +276,22 @@ footer .container{
     width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    
 
 }
 
 footer.container .sec p{
     color: white;
 }
+.sci img{
+    
+    width: 35px;
+}
 
 .sci{
-    margin-top: 20px;
+    margin-top: 10px;
     display: grid;
-
-    
+    font-size: 10px;
 }
 
 .sci li{
